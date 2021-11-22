@@ -13,3 +13,4 @@ public class CabInvoiceGenerator {
             return calculate_Fare;
     }
 }
+

@@ -20,3 +20,4 @@ public class CabInvoiceGeneratorTest {
         Assert.assertEquals(5,result,0);
     }
 }
+
