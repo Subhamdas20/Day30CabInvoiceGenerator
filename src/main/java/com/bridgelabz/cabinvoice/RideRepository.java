@@ -18,5 +18,4 @@ public class RideRepository {
     public Ride[] getRides(String userId) {
         return this.userRides.get(userId).toArray(new Ride[0]);
     }
-
 }
