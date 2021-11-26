@@ -11,7 +11,6 @@ public class InvoiceSummarry {
         this.totalFare = totalFare;
         numberOfRides = length;
         avgFare = totalFare / numberOfRides;
-        System.out.println(numberOfRides);
     }
 
     @Override
